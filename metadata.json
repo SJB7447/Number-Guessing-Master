@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Number Guessing Master",
+  "description": "A competitive number guessing game (1-100) with a global leaderboard powered by Supabase and real-time commentary from Gemini AI.",
+  "requestFramePermissions": []
+}
